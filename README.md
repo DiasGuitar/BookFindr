@@ -7,8 +7,13 @@ BookFindr is a web application that allows users to find books using the Google 
 - Enter the name of the book you're looking for in the search form.
 - BookFindr will retrieve information from the Google Books API and display the results.
 - Click on the book thumbnail to view more details and preview the book on Google Books.
+- BookFindr offers a user-friendly experience on desktops and mobile devices
+- BookFindr features both dark and light theme
 
 ## Technologies used
 
 - React
 - Axios for API requests
+
+
+# [Visit BookFindr](https://diasguitar.github.io/BookFindr/)
